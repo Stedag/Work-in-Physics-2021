@@ -10,7 +10,7 @@ Note that you are welcome to join the "Physics Lounge" Discord group. The Societ
 
 Install and experiment with technical software that is included with your tuition. 90% of your science related coding will likely be done in Matlab, Mathematica, and Excell. 5% may be Java/C++/C/Javascript/R/Python. [Citation needed]
 
-![Evolution of Wavefunction in Infinite Square Potential Well](infinite_square_well.png)
+![](https://github.com/Stedag/Work-in-Physics-2021/blob/master/infinite_squre_well.png)
 
 ## Sophomores
 
